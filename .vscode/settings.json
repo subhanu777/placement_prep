@@ -63,5 +63,6 @@
         "unordered_map": "cpp",
         "utility": "cpp",
         "vector": "cpp"
-    }
+    },
+    "markdown.preview.breaks": true
 }
